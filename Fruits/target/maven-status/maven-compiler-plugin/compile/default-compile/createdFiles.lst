@@ -1,0 +1,6 @@
+com\mycompany\mm\FruitPredictor.class
+com\mycompany\mm\ReLU.class
+com\mycompany\mm\Softmax.class
+com\mycompany\mm\ActivationFunction.class
+com\mycompany\mm\NeuralNetwork.class
+com\mycompany\mm\FruitPredictor$FruitData.class
